@@ -9,3 +9,5 @@ So to unirinically create a branch of your friends repo you have to follow this 
 8) git push
 9) ?
 10) profit
+
+8*) git push --set-upstream origin <name of branch>
